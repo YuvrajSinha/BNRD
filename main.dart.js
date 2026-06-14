@@ -41329,7 +41329,7 @@ this.b.eJ(s,r)}else throw q}},
 $S(){return this.a.$ti.h("~(1)")}}
 A.Jd.prototype={
 K(a){var s=null
-return new A.xI(B.DI,"BNRD Ecosystem",A.t5(s,s,"Sans-Serif",B.ar,s),!1,s)}}
+return new A.xI(B.DI,"BNRD.",A.t5(s,s,"Sans-Serif",B.ar,s),!1,s)}}
 A.wW.prototype={
 ah(){var s=null,r=t.C
 return new A.PB(A.Le(),new A.bo(s,r),new A.bo(s,r),new A.bo(s,r),new A.bo(s,r),new A.bo(s,r),new A.bo(s,r))}}
